@@ -1,0 +1,28 @@
+body {
+    background-color: #2a2a2a;
+    color: #fff;
+}
+
+input{
+    background-color: #555;
+    color: #fff;
+}
+
+input::placeholder{
+    color: #ccc;
+}
+
+.primary-button{
+    background-color: #ce711a;
+    color: #fff;
+}
+
+.secondary-button{
+    background-color: #555;
+    color: #fff;
+}
+
+.titleContainer{
+    display: flex;
+    justify-content: center;
+}
